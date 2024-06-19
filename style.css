@@ -1,11 +1,33 @@
 .header{
-    background-color: crimson;
+    background-color: blanchedalmond;
+    font-size: 25px;
 }
 
 .unordered-L{
-    color: crimson;
+    color: black;
+    font-size: 18px;
 }
 
 .list-I{
-    color: crimson;
+    color: black;
+    font-size: 20px;
+}
+
+.Ingredients{
+    background-color: blanchedalmond;
+    padding-bottom: 5px;
+    margin: 10px;
+    width: 500px;
+    
+}
+
+.Directions{
+    background-color: blanchedalmond;
+    padding-bottom: 5px;
+    margin: 10px;
+    width: 500px;
+}
+
+.para{
+    font-size: 25px;
 }
